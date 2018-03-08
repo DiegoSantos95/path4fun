@@ -408,7 +408,7 @@ header.masthead p {
         opacity: 1;
     }
 }
-img-mickey {
+.img-mickey {
     -webkit-animation: blink 1s;
     -webkit-animation-iteration-count: infinite;
     -moz-animation: blink 1s;
