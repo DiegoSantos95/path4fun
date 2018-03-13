@@ -127,8 +127,9 @@ img::-moz-selection {
     border-color: transparent;
     background-color: transparent;
   }
-  #mainNav .navbar-brand {
+   .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
+    font-size: 26px
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
     color: #fff;
