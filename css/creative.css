@@ -91,7 +91,7 @@ img::-moz-selection {
   color: #F05F40;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   position: sticky;
-  font-size: 25px;
+  font-size: 50px;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
